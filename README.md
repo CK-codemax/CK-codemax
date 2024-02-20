@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on building amazing systems with my knowledge in React and NextJS. I am also open to learning new Tech as required.
 - 📫 How to reach me ... whoroochuko@gmail.com
 - 😄 Pronouns: He/Him
+- I am open to work in any time zone, fully remote.
 - ⚡ Fun fact: When I'm not writing code, I spend time hiking or cooking sometimes!
 
 <!---
