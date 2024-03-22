@@ -1,5 +1,5 @@
 - 👋 Hi, welcome and thanks for checking out my GitHub profile.
-- I’m CK popularly called the Javascript Doctor because I actually love writing Javascript. I am a Frontend developer with about a year's experience writing React and NextJS. 
+-  My name is Ochuko, CK for short. I'm also called the Javascript Doctor because I actually love writing Javascript. I am a Frontend developer with about a year's experience writing React and NextJS. 
 - 👀 I’m interested in backend development, cloud engineering, AI, and machine learning.
 - 🌱 I’m currently learning react native, nodeJS, SQL, Typescript, microservices.
 - 💞️ I’m looking to collaborate on building amazing systems with my knowledge in React and NextJS. I am also open to learning new Tech as required.
